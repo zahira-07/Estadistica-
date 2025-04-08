@@ -1,4 +1,4 @@
-Gender,Age,Height,Weight,family_history_with_overweight,FAVC,FCVC,NCP,CAEC,SMOKE,CH2O,SCC,FAF,TUE,CALC,MTRANS,NObeyesdad
+Genero,Edad,Altura,Peso,Antecedentes Familiares,Alimentos con calorias,Frecuencia de consumo de verduras,No.Comidas,Consumo entre comidas,Fuma,Consumo de agua,Control ingesta calorica,Act Fisica,T Uso Tecnologia,C Alcohol,M_TRANS,Niv_Obesidad
 Female,21,1.62,64.00,yes,no,2.00,3.00,Sometimes,no,2.00,no,0.00,1.000,no,Public_Transportation,Normal_Weight
 Female,21,1.52,56.00,yes,no,3.00,3.00,Sometimes,yes,3.00,yes,3.00,0.000,Sometimes,Public_Transportation,Normal_Weight
 Male,23,1.80,77.00,yes,no,2.00,3.00,Sometimes,no,2.00,no,2.00,1.000,Frequently,Public_Transportation,Normal_Weight
